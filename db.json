@@ -1,4 +1,10 @@
 {
-  "users": [],
+  "users": [
+    {
+      "email": "della.duck@aigles.be",
+      "password": "$2a$10$ALIosyVOSCTwz5FvaIr/DO8nr8Ultb87kVJdO1ZWQmB7CF5a3cwoe",
+      "id": 1
+    }
+  ],
   "product": []
 }
